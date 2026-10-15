@@ -1,13 +1,13 @@
 ## Hi, I'm Isaac 👋
 
-Stellar & Soroban developer based in Ibadan, Nigeria. I write Rust smart contracts and TypeScript frontends, and I contribute to open-source projects in the Stellar ecosystem through the Drips Stellar Wave.
+Stellar & Soroban developer based in Nigeria. I write Rust smart contracts and TypeScript frontends, and I contribute to open-source projects in the Stellar ecosystem through the Drips Stellar Wave.
 
-## 🛠 Stack
+## Stack
 - **Smart contracts:** Rust, Soroban
 - **Frontend:** TypeScript, React, Next.js, Tailwind
 - **Tooling:** Git, Cargo, ESLint, fuzz and invariant testing
 
-## 🌊 Recent open-source work
+##  Recent open-source work
 - **Stellabill** – adversarial test coverage for treasury split logic
 - **Talenttrust** – escrow state invariants in fuzz tests, deposit compatibility fixes
 - **Liquifact** – state invariant fixes in the invoices page
@@ -15,10 +15,10 @@ Stellar & Soroban developer based in Ibadan, Nigeria. I write Rust smart contrac
 - **GasGuard** – RBAC and auth privilege boundary docs
 - **Mova Store** – Tailwind config fix
 
-## 🎯 Focus
+## Focus
 Secure, well-tested Soroban contracts and clean, typed frontends for Stellar dApps.
 
-## 📫 Reach me
+##  Reach me
 Open an issue or tag me @Isaacayomide28 on a PR.# Hi there 👋
 
 <!--
