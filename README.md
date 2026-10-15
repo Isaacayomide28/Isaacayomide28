@@ -19,7 +19,7 @@ Stellar & Soroban developer based in Nigeria. I write Rust smart contracts and T
 Secure, well-tested Soroban contracts and clean, typed frontends for Stellar dApps.
 
 ##  Reach me
-Open an issue or tag me @Isaacayomide28 on a PR.# Hi there 👋
+Open an issue or tag me @Isaacayomide28 on a PR.
 
 <!--
 **Isaacayomide28/Isaacayomide28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
